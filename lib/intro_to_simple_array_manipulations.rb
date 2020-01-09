@@ -3,19 +3,19 @@ def using push(array, string)
 end
 
 def using_unshift(array, string)
-  
+  array.unshift
 end
 
-def using_unshift(array)
-  
+def using_pop(array)
+  array.pop
 end
 
-def using_unshift(array)
-  
+def pop_with_args(array)
+  array.unshift
 end
 
 def using_unshift(array, string)
-  
+  array.
 end
 
 def using_unshift(array, string)
